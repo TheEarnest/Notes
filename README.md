@@ -2,7 +2,7 @@
 
 Just notes
 
-* [Markdown syntax] (https://github.com/TheEarnest/markdown-syntax-zhtw)
+* [Markdown syntax](https://github.com/TheEarnest/markdown-syntax-zhtw)
 
 * Using git 
 
