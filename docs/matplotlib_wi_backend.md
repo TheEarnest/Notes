@@ -5,7 +5,7 @@
 * python3.6
 * python36-pip
 * python3-devel
-
+* libcrypt-devel
 
 
 ## 
