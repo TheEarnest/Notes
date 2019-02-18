@@ -1,9 +1,10 @@
-# Notes
+# Notes of installing matplotlib with TkAGG backend
 
-Just notes
+Libs can be installed by Cygwin:
 
-* Markdown syntax https://github.com/TheEarnest/markdown-syntax-zhtw
 
-* Using git 
 
-* matplotlib and backend installation on cygwin 
+
+Notes of [install matplotlib](https://matplotlib.org/faq/installing_faq.html)
+
+
