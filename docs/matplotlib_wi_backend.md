@@ -9,6 +9,6 @@
 
 
 ## 
-* Notes of [install matplotlib](https://matplotlib.org/faq/installing_faq.html "title" target="_blank")
+* Notes of [install matplotlib](https://matplotlib.org/faq/installing_faq.html" title" target="_blank")
 
 
