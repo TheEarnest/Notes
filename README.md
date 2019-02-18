@@ -6,4 +6,7 @@ Just notes
 
 * [Using git](/docs/Using_Git.md) 
 
-* matplotlib and backend installation on cygwin 
+* [matplotlib and backend installation on cygwin](/docs/matplotlib_wi_backend.md) 
+
+
+
