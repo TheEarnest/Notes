@@ -13,6 +13,13 @@ Related Pro Tips: https://ochronus.com/git-tips-from-the-trenches/
 
 Interactive Beginners Tutorial: http://try.github.io/
 
+Additional
+-----------
+
+
+`git count-objects -v `: Give a report of how many unpacked objects there are in your repository, how much space they take up, how many pack files you have and how much space they take up.
+
+
 
 Reminder
 -----------
